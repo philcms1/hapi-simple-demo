@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Simple Hapi RESTful API for demo purposes",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": "git@github.com:philcms1/hapi-simple-demo.git",
   "author": "philcms1 <phil@soaarchitects.com>",
   "license": "None",
